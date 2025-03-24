@@ -16,6 +16,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Sketchware-FF5722?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sketchware-FF5722?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
