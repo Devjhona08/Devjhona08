@@ -3,8 +3,8 @@
 ### 🚀 Sobre mí  
 - 🎓 Estudiante de **Ingeniería de Sistemas**.  
 - 💻 Apasionado por la programación y el desarrollo de soluciones digitales.  
-- 🛠️ Experiencia en la creación de sistemas web, aplicaciones de gestión y proyectos personalizados.  
-- 🌱 Siempre aprendiendo, actualmente explorando el **hacking ético** y la **fotografía móvil**.  
+- 🛠️ Experiencia en la creación de sistemas web, aplicaciones moviles y proyectos personalizados.  
+- 🌱 Siempre aprendiendo, actualmente explorando el **hacking ético**   
 
 ---
 
