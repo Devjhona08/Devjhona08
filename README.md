@@ -57,11 +57,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhonatan08&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+🔥 "La programación no es solo mi habilidad, es mi lenguaje para cambiar el mundo."
 
 ---
 
