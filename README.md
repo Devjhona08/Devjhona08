@@ -1,15 +1,15 @@
 <h1 align="center">¡Hola, soy Jhonatan! 👋</h1>
 
 <p align="center">
-  🎓 Estudiante de <strong>Ingeniería de Sistemas</strong> apasionado por la tecnología, la programación y el desarrollo de soluciones innovadoras. Siempre buscando aprender y crecer en este fascinante mundo de la tecnología.
+  🎓 Estudiante de <strong>Ingeniería de Sistemas</strong> apasionado por la tecnología, la programación y el desarrollo de soluciones innovadoras. Siempre buscando aprender y crecer en este fascinante mundo de la programacion.
 </p>
 
 ---
 
 ### 🚀 Sobre mí:
 
-- 💻 Me encanta desarrollar aplicaciones, crear interfaces atractivas y resolver problemas mediante código.
-- 📚 Siempre estoy explorando nuevas tecnologías y herramientas.
+- 💻 Me encanta desarrollar aplicaciones, crear webs y resolver problemas mediante la aplicacion de la programación.
+- 📚 Siempre estoy explorando nuevas tecnologías y herramientas que ayuden en mi desarrollo educativo.
 - 📈 Busco oportunidades para aplicar mis conocimientos en proyectos reales y desafiantes.
 
 ---
