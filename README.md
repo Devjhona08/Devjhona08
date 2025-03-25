@@ -43,9 +43,17 @@
 
 ### 📫 ¡Contáctame!
 
-- 📧 Correo: **devjhonatan08@gmail.com**
-- 📱 Teléfono: **917 439 786**
-- 📸 Instagram: [**@devjhonatan08**](https://www.instagram.com/devjhonatan08)
+<p align="center">
+  <a href="mailto:devjhonatan08@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
+  </a>
+  <a href="https://www.instagram.com/devjhonatan08" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="tel:+51917439786">
+    <img src="https://img.shields.io/badge/Teléfono-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Teléfono">
+  </a>
+</p>
 
 ---
 
@@ -53,7 +61,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jhonatan08&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatan08&layout=compact&theme=radical" alt="Top Langs">
 </p>
 
 ---
