@@ -1,18 +1,17 @@
 <h1 align="center">¡Hola, soy Jhonatan! 👋</h1>
 
 <p align="center">
-  🎓 Estudiante de <strong>Ingeniería de Sistemas</strong> | Analista de <strong>Ciberseguridad</strong> y <strong>Hacker Ofensivo</strong>. Apasionado por la tecnología, la programación y la creación de soluciones innovadoras. Siempre aprendiendo y creciendo en el mundo digital. 🚀
+  🎓 Estudiante de <strong>Ingeniería de Sistemas</strong> | Analista de <strong>Ciberseguridad</strong> y Desarrollador. Apasionado por crear soluciones tecnológicas eficientes y seguras. 🚀
 </p>
 
 ---
 
 ### 🚀 Sobre mí
 
-- 💻 Desarrollo aplicaciones, diseño sitios web y resuelvo problemas mediante programación.
-- 🛡️ Analista de ciberseguridad y hacker ofensivo, con experiencia en pruebas de penetración y seguridad de sistemas.
-- 📚 Siempre explorando nuevas tecnologías, herramientas de hacking ético y entornos de ciberseguridad como Kali Linux.
-- 🌟 Busco oportunidades para aplicar mis conocimientos en proyectos reales y desafiantes.
-- 🔗 Interesado en desarrollo full-stack, apps móviles y seguridad informática.
+- 💻 Desarrollo aplicaciones web y móviles, resolviendo problemas con programación y buenas prácticas de software.
+- 🛡️ Me especializo en ciberseguridad, análisis de vulnerabilidades y protección de sistemas.
+- 📈 Busco siempre aplicar mis conocimientos en proyectos reales, desafiantes y que aporten valor.
+- 🔗 Interesado en desarrollo full-stack, aplicaciones seguras y soluciones innovadoras.
 
 ---
 
@@ -30,21 +29,19 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
 
-#### Entornos de Desarrollo y Herramientas
+#### Entornos y Herramientas
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
-  <img src="https://img.shields.io/badge/Sketchware-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Sketchware">
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
   <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains">
-  <img src="https://img.shields.io/badge/Cursor-9B59B6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Cursor">
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
 </p>
 
 ---
 
-### 📫 ¡Hablemos!
+### 📫 Contacto
 
 <p align="center">
   <a href="mailto:devjhonatan08@gmail.com" target="_blank">
@@ -60,7 +57,18 @@
 
 ---
 
-💡 **"La programación y la ciberseguridad no son solo habilidades, son mi lenguaje para cambiar el mundo."**
+### ☕ Apóyame
 
-✨ ¡Gracias por visitar mi perfil! Espero que podamos crear cosas increíbles juntos. ✨
+Si quieres apoyarme y contribuir a mi trabajo, ¡puedes invitarme a un café!  
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/devjhonatan08" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+  </a>
+</p>
+
+---
+
+💡 **"Me esfuerzo por crear soluciones tecnológicas eficientes, seguras y de calidad."**
+
+✨ ¡Gracias por visitar mi perfil! ✨
