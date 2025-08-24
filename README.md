@@ -1,22 +1,24 @@
 <h1 align="center">¡Hola, soy Jhonatan! 👋</h1>
 
 <p align="center">
-  🎓 Estudiante de <strong>Ingeniería de Sistemas</strong> apasionado por la tecnología, la programación y el desarrollo de soluciones innovadoras. Siempre buscando aprender y crecer en este fascinante mundo de la programacion.
+  🎓 Estudiante de <strong>Ingeniería de Sistemas</strong> | Analista de <strong>Ciberseguridad</strong> y <strong>Hacker Ofensivo</strong>. Apasionado por la tecnología, la programación y la creación de soluciones innovadoras. Siempre aprendiendo y creciendo en el mundo digital. 🚀
 </p>
 
 ---
 
-### 🚀 Sobre mí:
+### 🚀 Sobre mí
 
-- 💻 Me encanta desarrollar aplicaciones, crear webs y resolver problemas mediante la aplicacion de la programación.
-- 📚 Siempre estoy explorando nuevas tecnologías y herramientas que ayuden en mi desarrollo educativo.
-- 📈 Busco oportunidades para aplicar mis conocimientos en proyectos reales y desafiantes.
+- 💻 Desarrollo aplicaciones, diseño sitios web y resuelvo problemas mediante programación.
+- 🛡️ Analista de ciberseguridad y hacker ofensivo, con experiencia en pruebas de penetración y seguridad de sistemas.
+- 📚 Siempre explorando nuevas tecnologías, herramientas de hacking ético y entornos de ciberseguridad como Kali Linux.
+- 🌟 Busco oportunidades para aplicar mis conocimientos en proyectos reales y desafiantes.
+- 🔗 Interesado en desarrollo full-stack, apps móviles y seguridad informática.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas:
+### 🛠️ Tecnologías y Herramientas
 
-#### Lenguajes y Frameworks:
+#### Lenguajes y Frameworks
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -28,7 +30,7 @@
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
 </p>
 
-#### Entornos de Desarrollo y Herramientas:
+#### Entornos de Desarrollo y Herramientas
 
 <p align="center">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
@@ -37,11 +39,12 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
   <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains">
   <img src="https://img.shields.io/badge/Cursor-9B59B6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Cursor">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
 </p>
 
 ---
 
-### 📫 ¡Contáctame!
+### 📫 ¡Hablemos!
 
 <p align="center">
   <a href="mailto:devjhonatan08@gmail.com" target="_blank">
@@ -57,8 +60,7 @@
 
 ---
 
-🔥 "La programación no es solo mi habilidad, es mi lenguaje para cambiar el mundo."
+💡 **"La programación y la ciberseguridad no son solo habilidades, son mi lenguaje para cambiar el mundo."**
 
----
+✨ ¡Gracias por visitar mi perfil! Espero que podamos crear cosas increíbles juntos. ✨
 
-✨ ¡Gracias por visitar mi perfil! ✨
