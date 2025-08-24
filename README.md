@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, soy Jhonatan! 👋</h1>
 
 <p align="center">
-  🎓 Estudiante de <strong>Ingeniería de Sistemas</strong> | Analista de <strong>Ciberseguridad</strong> y Desarrollador. Apasionado por crear soluciones tecnológicas eficientes y seguras. 🚀
+  🎓 Estudiante de <strong>Ingeniería de Sistemas</strong> | Analista de <strong>Ciberseguridad</strong> y Desarrollador. 🚀
 </p>
 
 ---
@@ -10,8 +10,7 @@
 
 - 💻 Desarrollo aplicaciones web y móviles, resolviendo problemas con programación y buenas prácticas de software.
 - 🛡️ Me especializo en ciberseguridad, análisis de vulnerabilidades y protección de sistemas.
-- 📈 Busco siempre aplicar mis conocimientos en proyectos reales, desafiantes y que aporten valor.
-- 🔗 Interesado en desarrollo full-stack, aplicaciones seguras y soluciones innovadoras.
+- 🔗 Desarrollo full-stack, aplicaciones seguras y soluciones innovadoras.
 
 ---
 
@@ -69,6 +68,3 @@ Si quieres apoyarme y contribuir a mi trabajo, ¡puedes invitarme a un café!
 
 ---
 
-💡 **"Me esfuerzo por crear soluciones tecnológicas eficientes, seguras y de calidad."**
-
-✨ ¡Gracias por visitar mi perfil! ✨
