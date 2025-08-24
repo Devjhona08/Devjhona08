@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, soy Jhonatan! 👋</h1>
 
 <p align="center">
-  🎓 Estudiante de <strong>Ingeniería de Sistemas</strong> | Analista de <strong>Ciberseguridad</strong> y Desarrollador. 🚀
+  🎓 Estudiante de <strong>Ingeniería de Sistemas</strong> | Analista de <strong>Ciberseguridad</strong> y Desarrollador. 
 </p>
 
 ---
@@ -9,8 +9,8 @@
 ### 🚀 Sobre mí
 
 - 💻 Desarrollo aplicaciones web y móviles, resolviendo problemas con programación y buenas prácticas de software.
-- 🛡️ Me especializo en ciberseguridad, análisis de vulnerabilidades y protección de sistemas.
-- 🔗 Desarrollo full-stack, aplicaciones seguras y soluciones innovadoras.
+- 🛡️ Analista en ciberseguridad, análisis de vulnerabilidades y protección de sistemas.
+- 🔗 Interesado en desarrollo full-stack, aplicaciones seguras y soluciones innovadoras.
 
 ---
 
@@ -56,15 +56,4 @@
 
 ---
 
-### ☕ Apóyame
-
-Si quieres apoyarme y contribuir a mi trabajo, ¡puedes invitarme a un café!  
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/devjhonatan08" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
-  </a>
-</p>
-
----
 
