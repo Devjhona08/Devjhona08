@@ -1,13 +1,21 @@
 <div align="center">
 
+<!-- 
+Si subes una imagen al repo de tu perfil, por ejemplo:
+assets/gosht-banner.png
+descomenta la línea de abajo y úsala como cabecera.
+-->
+
+<!-- <img src="./assets/gosht-banner.png" alt="Gosht Banner" width="100%" /> -->
+
 # Jhonatan
 
 ### Desarrollador de Software · Ingeniero de Ciberseguridad
 
-Desarrollo software, analizo sistemas y construyo soluciones enfocadas en seguridad, automatización y tecnología.
+> Desarrollo, seguridad, automatización e investigación técnica.
 
-[![Gosht Team](https://img.shields.io/badge/Gosht%20Team-7C3AED?style=for-the-badge&logo=ghostery&logoColor=white)](https://goshtteam.com/)
-[![Sitio Web](https://img.shields.io/badge/goshtteam.com-111111?style=for-the-badge&logo=googlechrome&logoColor=A855F7)](https://goshtteam.com/)
+[![Gosht Team](https://img.shields.io/badge/GOSHT%20TEAM-7C3AED?style=for-the-badge&logo=ghostery&logoColor=white)](https://goshtteam.com/)
+[![Sitio Web](https://img.shields.io/badge/Visitar%20sitio-111111?style=for-the-badge&logo=googlechrome&logoColor=A855F7)](https://goshtteam.com/)
 [![GitHub](https://img.shields.io/badge/Devjhona08-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devjhona08)
 
 </div>
@@ -16,22 +24,16 @@ Desarrollo software, analizo sistemas y construyo soluciones enfocadas en seguri
 
 ## Sobre mí
 
-Soy desarrollador de software e ingeniero de ciberseguridad con interés en comprender cómo funcionan los sistemas, construir soluciones sólidas y mejorar continuamente su arquitectura, rendimiento y seguridad.
+Soy desarrollador de software e ingeniero de ciberseguridad con interés en construir soluciones sólidas, comprender cómo funcionan los sistemas y mejorar continuamente su arquitectura, seguridad y rendimiento.
 
-Mi perfil combina principalmente:
+Me enfoco en combinar desarrollo, análisis técnico y automatización para crear herramientas y soluciones orientadas a escenarios reales.
 
-- Desarrollo de software
-- Ciberseguridad
-- Automatización
-- Desarrollo backend
-- Aplicaciones de escritorio
-- Seguridad ofensiva
-- Pruebas de penetración
-- Ingeniería inversa
-- Investigación de seguridad
-- Sistemas Windows
-
-Me interesa crear software funcional, mantenible y preparado para escenarios reales, cuidando tanto la parte técnica como la experiencia de uso.
+```text
+[ Desarrollo de software ]
+[ Ciberseguridad ]
+[ Automatización ]
+[ Investigación técnica ]
+```
 
 ---
 
@@ -74,6 +76,23 @@ Me interesa crear software funcional, mantenible y preparado para escenarios rea
 
 ---
 
+## Áreas de interés
+
+```text
+Arquitectura de software
+Desarrollo backend
+Aplicaciones Windows
+Ciberseguridad
+Ingeniería inversa
+Investigación de seguridad
+Automatización
+Sistemas en tiempo real
+Análisis de sistemas
+Desarrollo asistido por IA
+```
+
+---
+
 ## Ciberseguridad
 
 ```text
@@ -93,32 +112,17 @@ Ciberseguridad
 
 ---
 
-## Áreas de interés
+## Enfoque
 
 ```text
-Arquitectura de software
-Desarrollo backend
-Aplicaciones Windows
-Ciberseguridad
-Ingeniería inversa
-Investigación de seguridad
-Automatización
-Sistemas en tiempo real
-Análisis de sistemas
-Desarrollo asistido por IA
+Analizar
+  → Comprender
+    → Construir
+      → Probar
+        → Mejorar
 ```
 
----
-
-## Actividad en GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Devjhona08&show_icons=true&hide_border=true&bg_color=0D0B12&title_color=A855F7&icon_color=8B5CF6&text_color=E5E7EB" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devjhona08&layout=compact&hide_border=true&bg_color=0D0B12&title_color=A855F7&text_color=E5E7EB" />
-
-</div>
+Me interesa desarrollar soluciones funcionales, mantenibles y técnicamente sólidas, cuidando tanto el comportamiento interno del sistema como su utilidad práctica.
 
 ---
 
@@ -128,11 +132,11 @@ Desarrollo asistido por IA
 
 ### `DESARROLLO · CIBERSEGURIDAD · INVESTIGACIÓN`
 
-Gosht Team es mi espacio enfocado en desarrollo de software, ciberseguridad, investigación y experimentación tecnológica.
+Gosht Team es mi espacio enfocado en tecnología, desarrollo de software, ciberseguridad e investigación técnica.
 
 <br>
 
-[![Gosht Team](https://img.shields.io/badge/Visitar%20Gosht%20Team-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goshtteam.com/)
+[![Visitar Gosht Team](https://img.shields.io/badge/VISITAR%20GOSHT%20TEAM-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goshtteam.com/)
 
 ### [goshtteam.com](https://goshtteam.com/)
 
