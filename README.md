@@ -8,8 +8,6 @@ descomenta la línea de abajo y úsala como cabecera.
 
 <!-- <img src="./assets/gosht-banner.png" alt="Gosht Banner" width="100%" /> -->
 
-# Jhonatan
-
 ### Desarrollador de Software · Ingeniero de Ciberseguridad
 
 > Desarrollo, seguridad, automatización e investigación técnica.
