@@ -1,233 +1,188 @@
-GitHub Profile README — Jhonatan
+<!-- GOSHT TEAM — GitHub Profile README -->
+<!-- Palette: #0d0d0d bg | #7c3aed primary violet | #a855f7 accent | #22d3ee cyan | #f0f0f0 text -->
 
 <div align="center">
-# Jhonatan
-### Software Engineer · Cybersecurity Engineer · Product Builder
-**Building software, security tooling and production-ready systems from Peru 🇵🇪**
-[![Website](https://img.shields.io/badge/Gosht%20Team-Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goshtteam.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github)](#)
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Red%20Team-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white)](#)
+
+```
+ ██████╗  ██████╗ ███████╗██╗  ██╗████████╗    ████████╗███████╗ █████╗ ███╗   ███╗
+██╔════╝ ██╔═══██╗██╔════╝██║  ██║╚══██╔══╝    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║
+██║  ███╗██║   ██║███████╗███████║   ██║           ██║   █████╗  ███████║██╔████╔██║
+██║   ██║██║   ██║╚════██║██╔══██║   ██║           ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║
+╚██████╔╝╚██████╔╝███████║██║  ██║   ██║           ██║   ███████╗██║  ██║██║ ╚═╝ ██║
+ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝           ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Software+Developer+%2F+Security+Researcher;Building+tools+from+scratch+since+always;Red+Team+%7C+Malware+Analysis+%7C+Full+Stack;Founder+%40+Gosht+Team" alt="Typing SVG" />
+
+<br/>
+
+[![Gosht Team](https://img.shields.io/badge/Gosht_Team-7c3aed?style=for-the-badge&logo=ghost&logoColor=white)](https://github.com/GosshtTeam)
+[![Peru](https://img.shields.io/badge/Peru-D91023?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=black)](#)
+
 </div>
+
 ---
-## About Me
-I'm **Jhonatan**, a self-taught software developer and cybersecurity engineer from Peru.
-I build more than isolated scripts. I like designing complete systems involving:
-- Backend architecture
-- Business logic
-- Authentication & authorization
-- Role-based access control
-- Licensing systems
-- APIs and integrations
-- Real-time monitoring
-- Automation
-- Desktop applications
-- Security tooling
-- Dashboards and administration panels
-- Production-oriented infrastructure
-My work sits at the intersection of **software engineering, cybersecurity and product development**.
-I enjoy understanding how systems work internally, identifying architectural or security limitations, and building better solutions around them.
+
+<div align="center">
+
+### `> whoami`
+
+</div>
+
+```python
+class Jhonatan:
+    location    = "Lima, Perú 🇵🇪"
+    entity      = "Gosht Team — founder & lead engineer"
+    approach    = "I don't just use tools. I reverse them, then build my own."
+
+    focus = [
+        "Full Stack Development  (Flask · Node.js/TS · .NET · C#)",
+        "Security Research       (Red Team · Malware Analysis · Pentesting)",
+        "Systems Engineering     (RATs · C2 · ETW · WFP · WebSocket infra)",
+        "Product Building        (CRMs · POS · ERP · Licensing systems)",
+    ]
+
+    aesthetic   = "Cyberpunk · Dark · Neon · Glassmorphism · Anime"
+    method      = "Build → Break → Understand → Rebuild better"
+    goal        = "Own ecosystem. Own tools. Own brands."
+```
+
 ---
-## Current Focus
-### 🛡️ GoshtGuard
-Native Windows security platform focused on process, network and system visibility.
-Working with concepts such as:
-- Process monitoring
-- Suspicious process detection
-- ETW telemetry
-- Network connection visibility
-- Windows Filtering Platform
-- Process containment
-- SignalR real-time events
-- Forensic telemetry
-- Security event correlation
-**Stack**
-`C#` · `.NET 8` · `ASP.NET Core` · `SignalR` · `Windows APIs`
+
+<div align="center">
+
+### `> cat /proc/skills`
+
+</div>
+
+<table align="center">
+<tr>
+<td valign="top" width="33%">
+
+**`[ Backend & APIs ]`**
+- Python · Flask · SQLite
+- Node.js · TypeScript · Express
+- VB.NET · C# · .NET 8
+- REST APIs · WebSocket · SignalR
+- Socket.IO · Prisma · MySQL
+
+</td>
+<td valign="top" width="33%">
+
+**`[ Security & Systems ]`**
+- Red Team · Pentesting
+- Malware Analysis · Reverse Eng.
+- ETW Monitoring · WFP Network
+- Process Containment & Forensics
+- Android APK · Smali · Frida
+
+</td>
+<td valign="top" width="33%">
+
+**`[ Product & Frontend ]`**
+- WebView2 · Windows Desktop
+- Admin Panels · CRM · POS
+- PWA · Dashboards en tiempo real
+- Telegram Bots (ecosistemas)
+- Licensing & multi-user systems
+
+</td>
+</tr>
+</table>
+
 ---
-### 👻 Gosht Team
-Cybersecurity and software development ecosystem focused on security research, Red Team tooling and technical experimentation.
-🌐 **https://goshtteam.com**
-Areas of interest:
-- Red Team
-- Offensive security research
-- Malware analysis
-- Controlled malware development
-- Reverse engineering
-- Vulnerability research
-- Pentesting
-- Security automation
-- Windows internals
-> Security research and offensive tooling are developed and tested only in controlled or explicitly authorized environments.
+
+<div align="center">
+
+### `> ls -la ./projects --active`
+
+</div>
+
+```
+drwxr-xr-x  GoshtGuard/        Windows security tool — C# .NET 8
+                                ETW · WFP · SignalR · Process containment · Forensics
+
+drwxr-xr-x  Infoburo/          Admin panel PWA — Python/Flask + SQLite
+                                Bots CRM · Real-time dashboard · Multi-bot management
+
+drwxr-xr-x  GOSHT-RAT/         Remote administration tool — VB.NET + Node.js
+                                WebSocket C2 · Screen · Web injection · Android clients
+
+drwxr-xr-x  RedWing/           Android automation suite
+                                BAT installer · ADB toolchain · Emulator management
+
+drwxr-xr-x  [CLASSIFIED]/      Enterprise software
+                                POS · ERP · Facturación electrónica · Inventarios
+```
+
 ---
-### 🧾 Business Software
-I'm also working on production-oriented business systems including:
-- Electronic invoicing
-- POS
-- Inventory management
-- Sales management
-- Customers and suppliers
-- Product management
-- Reports and analytics
-- Role-based administration
-- Multi-user systems
-- Business automation
-My goal is to build software that can evolve from an internal project into a real commercial product.
+
+<div align="center">
+
+### `> cat philosophy.txt`
+
+</div>
+
+<div align="center">
+
+> *"No me basta con que un sistema funcione.*
+> *Quiero entender cómo se rompe, construir el mío, y que además se vea diferente al resto."*
+
+</div>
+
+```
+╔══════════════════════════════════════════════════════╗
+║  SECURITY RESEARCH  ──►  PRODUCT DEVELOPMENT         ║
+║         │                       │                    ║
+║         ▼                       ▼                    ║
+║   Entender cómo    ──►   Construir mejor             ║
+║   funciona todo          desde adentro               ║
+║                                                      ║
+║  ENTREPRENEURSHIP  ──►  GOSHT TEAM ECOSYSTEM         ║
+╚══════════════════════════════════════════════════════╝
+```
+
 ---
-## Tech Stack
-### Languages
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+<div align="center">
+
+### `> htop --tech`
+
+</div>
+
+<div align="center">
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-7c3aed?style=flat-square&logo=dotnet&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-### Backend & Web
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-7C3AED?style=flat-square)
-![SignalR](https://img.shields.io/badge/SignalR-Realtime-512BD4?style=flat-square)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-### Desktop / Windows
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_Desktop-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![WebView2](https://img.shields.io/badge/WebView2-0078D4?style=flat-square&logo=microsoftedge&logoColor=white)
-### Cybersecurity
-![Red Team](https://img.shields.io/badge/Red%20Team-Security-DC2626?style=flat-square)
-![Pentesting](https://img.shields.io/badge/Pentesting-111827?style=flat-square)
-![Reverse Engineering](https://img.shields.io/badge/Reverse%20Engineering-7C3AED?style=flat-square)
-![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-18181B?style=flat-square)
-![Windows Internals](https://img.shields.io/badge/Windows%20Internals-0078D6?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-22d3ee?style=flat-square&logo=socket.io&logoColor=black)
+![SignalR](https://img.shields.io/badge/SignalR-7c3aed?style=flat-square&logo=dotnet&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+
+</div>
+
 ---
-## What I Like Building
-```text
-Software Engineering
-├── Backend systems
-├── REST APIs
-├── Authentication
-├── RBAC
-├── Licensing
-├── Multi-user platforms
-└── Business automation
-Cybersecurity
-├── Security tooling
-├── Red Team research
-├── Malware analysis
-├── Reverse engineering
-├── Network visibility
-├── Windows internals
-└── Vulnerability research
-Product Engineering
-├── Admin panels
-├── CRM systems
-├── Real-time dashboards
-├── Desktop applications
-├── Monitoring platforms
-├── Inventory / POS
-└── Production-ready products
-
-⸻
-
-Engineering Philosophy
-
-I tend to work through rapid iteration:
-
-Build → Test → Break → Analyze → Refactor → Improve → Ship
-
-I prefer finding the root cause instead of hiding symptoms.
-
-That usually means investigating things like:
-
-* Race conditions
-* Concurrency issues
-* Thread explosion
-* Memory problems
-* Network behavior
-* Architectural bottlenecks
-* Compilation/runtime failures
-* Security boundaries
-* Scalability limitations
-
-I generally prefer improving and stabilizing an existing architecture before replacing it unnecessarily.
-
-⸻
-
-Product Mindset
-
-For me, software isn’t finished when the code works.
-
-A serious product also needs:
-
-Architecture
-+ Security
-+ Performance
-+ UX
-+ Observability
-+ Maintainability
-+ Scalability
-+ Visual identity
-
-That’s why I care about both the internal architecture and the interface people interact with.
-
-My visual style tends toward:
-
-Dark UI · Cyberpunk · Minimalism · Glassmorphism · Purple / Neon
-
-⸻
-
-Currently Exploring
-
-* Advanced Windows internals
-* ETW
-* Windows Filtering Platform
-* Endpoint security architecture
-* Malware behavior analysis
-* Reverse engineering
-* High-performance .NET
-* Real-time distributed systems
-* Security telemetry
-* SaaS architecture
-* Business software architecture
-* AI-assisted software engineering
-
-⸻
-
-GitHub Stats
-
-<div align="center">
-</div>
-
-⸻
-
-Gosht Team
 
 <div align="center">
 
-Software · Security · Research
+### `> ping gosht.team`
 
-goshtteam.com
+[![GitHub](https://img.shields.io/badge/GitHub-GosshtTeam-181717?style=for-the-badge&logo=github)](https://github.com/GosshtTeam)
 
-</div>
+<br/>
 
-⸻
-
-<div align="center">
-
-Build systems. Understand systems. Secure systems.
-
-Jhonatan · Peru 🇵🇪
-
-</div>
 ```
-:::
+> GOSHT TEAM — Technology. Security. Identity.
+> Status: [ BUILDING ] ████████████░░░░ 75%
+```
 
-Yo cambiaría únicamente TU_USUARIO por tu username real de GitHub. También evitaría poner cosas como “trabajo sin VM y con antivirus desactivado” en el README público: puede ser cierto sobre tu entorno de investigación, pero profesionalmente no aporta y puede proyectar prácticas inseguras fuera de contexto.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=80&section=footer&fontSize=0" width="100%"/>
 
-Tampoco pondría el rebuild de tu PC ROG, Free Fire o Lil Peep en la sección principal. Son datos personales válidos, pero para el GitHub que vas a utilizar como cara pública de Gosht Team y de tus futuros productos empresariales, el perfil de arriba comunica mucho mejor: ingeniero que desarrolla productos + especialista en seguridad, en lugar de parecer simplemente una cuenta dedicada a hacking.
-
-
+</div>
