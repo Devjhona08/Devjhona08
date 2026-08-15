@@ -86,7 +86,6 @@ Investigación de seguridad
 Automatización
 Sistemas en tiempo real
 Análisis de sistemas
-Desarrollo asistido por IA
 ```
 
 ---
