@@ -1,188 +1,132 @@
-<!-- GOSHT TEAM — GitHub Profile README -->
-<!-- Palette: #0d0d0d bg | #7c3aed primary violet | #a855f7 accent | #22d3ee cyan | #f0f0f0 text -->
-
 <div align="center">
 
-```
- ██████╗  ██████╗ ███████╗██╗  ██╗████████╗    ████████╗███████╗ █████╗ ███╗   ███╗
-██╔════╝ ██╔═══██╗██╔════╝██║  ██║╚══██╔══╝    ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║
-██║  ███╗██║   ██║███████╗███████║   ██║           ██║   █████╗  ███████║██╔████╔██║
-██║   ██║██║   ██║╚════██║██╔══██║   ██║           ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║
-╚██████╔╝╚██████╔╝███████║██║  ██║   ██║           ██║   ███████╗██║  ██║██║ ╚═╝ ██║
- ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝   ╚═╝           ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
-```
+# Jhonatan
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Software+Developer+%2F+Security+Researcher;Building+tools+from+scratch+since+always;Red+Team+%7C+Malware+Analysis+%7C+Full+Stack;Founder+%40+Gosht+Team" alt="Typing SVG" />
+### Software Developer · Cybersecurity Engineer
 
-<br/>
+Desarrollador autodidacta de Perú 🇵🇪 enfocado en desarrollo de software, ciberseguridad y construcción de soluciones orientadas a entornos reales.
 
-[![Gosht Team](https://img.shields.io/badge/Gosht_Team-7c3aed?style=for-the-badge&logo=ghost&logoColor=white)](https://github.com/GosshtTeam)
-[![Peru](https://img.shields.io/badge/Peru-D91023?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-22d3ee?style=for-the-badge&logo=hackthebox&logoColor=black)](#)
+[![Website](https://img.shields.io/badge/Gosht%20Team-goshtteam.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goshtteam.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Devjhona08-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Devjhona08)
 
 </div>
 
 ---
 
-<div align="center">
+## About Me
 
-### `> whoami`
+Soy desarrollador de software e ingeniero de ciberseguridad con interés en comprender cómo funcionan los sistemas, construir soluciones sólidas y mejorar continuamente tanto su arquitectura como su seguridad.
 
-</div>
+Mis principales áreas de interés incluyen:
 
-```python
-class Jhonatan:
-    location    = "Lima, Perú 🇵🇪"
-    entity      = "Gosht Team — founder & lead engineer"
-    approach    = "I don't just use tools. I reverse them, then build my own."
+- Software Engineering
+- Backend Development
+- Desktop Development
+- Cybersecurity
+- Red Team
+- Pentesting
+- Reverse Engineering
+- Security Research
+- Automation
+- Windows Internals
 
-    focus = [
-        "Full Stack Development  (Flask · Node.js/TS · .NET · C#)",
-        "Security Research       (Red Team · Malware Analysis · Pentesting)",
-        "Systems Engineering     (RATs · C2 · ETW · WFP · WebSocket infra)",
-        "Product Building        (CRMs · POS · ERP · Licensing systems)",
-    ]
+Me interesa combinar desarrollo, seguridad y experiencia de usuario para crear software funcional, mantenible y preparado para escenarios reales.
 
-    aesthetic   = "Cyberpunk · Dark · Neon · Glassmorphism · Anime"
-    method      = "Build → Break → Understand → Rebuild better"
-    goal        = "Own ecosystem. Own tools. Own brands."
+---
+
+## Tech Stack
+
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,python,ts,js" />
+</p>
+
+<p align="center">
+  C# · Python · TypeScript · JavaScript · VB.NET · SQL
+</p>
+
+### Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,flask,html,css" />
+</p>
+
+<p align="center">
+  .NET · ASP.NET Core · Node.js · Flask · REST APIs
+</p>
+
+### Tools & Environment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,visualstudio,vscode,git,github,docker" />
+</p>
+
+---
+
+## Cybersecurity
+
+```text
+Cybersecurity
+├── Red Team
+├── Pentesting
+├── Reverse Engineering
+├── Security Research
+├── Malware Analysis
+├── Vulnerability Analysis
+├── Windows Internals
+└── Security Automation
+```
+
+> Security research and offensive security activities are performed only in controlled or explicitly authorized environments.
+
+---
+
+## Areas of Interest
+
+```text
+Software Architecture
+Backend Systems
+Windows Development
+Cybersecurity
+Reverse Engineering
+Security Research
+Automation
+Real-time Systems
+System Internals
+AI-assisted Development
 ```
 
 ---
 
-<div align="center">
-
-### `> cat /proc/skills`
-
-</div>
-
-<table align="center">
-<tr>
-<td valign="top" width="33%">
-
-**`[ Backend & APIs ]`**
-- Python · Flask · SQLite
-- Node.js · TypeScript · Express
-- VB.NET · C# · .NET 8
-- REST APIs · WebSocket · SignalR
-- Socket.IO · Prisma · MySQL
-
-</td>
-<td valign="top" width="33%">
-
-**`[ Security & Systems ]`**
-- Red Team · Pentesting
-- Malware Analysis · Reverse Eng.
-- ETW Monitoring · WFP Network
-- Process Containment & Forensics
-- Android APK · Smali · Frida
-
-</td>
-<td valign="top" width="33%">
-
-**`[ Product & Frontend ]`**
-- WebView2 · Windows Desktop
-- Admin Panels · CRM · POS
-- PWA · Dashboards en tiempo real
-- Telegram Bots (ecosistemas)
-- Licensing & multi-user systems
-
-</td>
-</tr>
-</table>
-
----
+## GitHub Stats
 
 <div align="center">
 
-### `> ls -la ./projects --active`
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Devjhona08&show_icons=true&hide_border=true&theme=midnight-purple" />
 
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devjhona08&layout=compact&hide_border=true&theme=midnight-purple" />
 
-```
-drwxr-xr-x  GoshtGuard/        Windows security tool — C# .NET 8
-                                ETW · WFP · SignalR · Process containment · Forensics
+<br>
 
-drwxr-xr-x  Infoburo/          Admin panel PWA — Python/Flask + SQLite
-                                Bots CRM · Real-time dashboard · Multi-bot management
-
-drwxr-xr-x  GOSHT-RAT/         Remote administration tool — VB.NET + Node.js
-                                WebSocket C2 · Screen · Web injection · Android clients
-
-drwxr-xr-x  RedWing/           Android automation suite
-                                BAT installer · ADB toolchain · Emulator management
-
-drwxr-xr-x  [CLASSIFIED]/      Enterprise software
-                                POS · ERP · Facturación electrónica · Inventarios
-```
-
----
-
-<div align="center">
-
-### `> cat philosophy.txt`
-
-</div>
-
-<div align="center">
-
-> *"No me basta con que un sistema funcione.*
-> *Quiero entender cómo se rompe, construir el mío, y que además se vea diferente al resto."*
-
-</div>
-
-```
-╔══════════════════════════════════════════════════════╗
-║  SECURITY RESEARCH  ──►  PRODUCT DEVELOPMENT         ║
-║         │                       │                    ║
-║         ▼                       ▼                    ║
-║   Entender cómo    ──►   Construir mejor             ║
-║   funciona todo          desde adentro               ║
-║                                                      ║
-║  ENTREPRENEURSHIP  ──►  GOSHT TEAM ECOSYSTEM         ║
-╚══════════════════════════════════════════════════════╝
-```
-
----
-
-<div align="center">
-
-### `> htop --tech`
-
-</div>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-7c3aed?style=flat-square&logo=dotnet&logoColor=white)
-![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-22d3ee?style=flat-square&logo=socket.io&logoColor=black)
-![SignalR](https://img.shields.io/badge/SignalR-7c3aed?style=flat-square&logo=dotnet&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
+<img src="https://streak-stats.demolab.com?user=Devjhona08&theme=midnight-purple&hide_border=true" />
 
 </div>
 
 ---
 
+## Gosht Team
+
 <div align="center">
 
-### `> ping gosht.team`
+### Software · Cybersecurity · Research
 
-[![GitHub](https://img.shields.io/badge/GitHub-GosshtTeam-181717?style=for-the-badge&logo=github)](https://github.com/GosshtTeam)
+[![Gosht Team](https://img.shields.io/badge/Visit-Gosht%20Team-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://goshtteam.com/)
 
-<br/>
+### [goshtteam.com](https://goshtteam.com/)
 
-```
-> GOSHT TEAM — Technology. Security. Identity.
-> Status: [ BUILDING ] ████████████░░░░ 75%
-```
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=80&section=footer&fontSize=0" width="100%"/>
+**Jhonatan · Peru 🇵🇪**
 
 </div>
